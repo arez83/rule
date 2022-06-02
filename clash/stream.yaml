@@ -2,6 +2,15 @@
 # BEHAVIOR: Classical
 payload:
   # Mulai baris ini kebawah bisa di edit/hapus
+# > Music
+  - DOMAIN-SUFFIX,joox.com
+  - DOMAIN-KEYWORD,joox
+  - DOMAIN-KEYWORD,soundcloud
+  - DOMAIN-KEYWORD,resso
+# Vidio
+  - DOMAIN-SUFFIX,vidio.com
+  - DOMAIN-SUFFIX,m.vidio.com
+  - DOMAIN-KEYWORD,vidio
 # > Tiktok
   - DOMAIN-SUFFIX,tiktok.com
   - DOMAIN-KEYWORD,tiktok
