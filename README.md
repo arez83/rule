@@ -1,6 +1,4 @@
-RULE-SET
-
-#CLASH
+**RULE-SET CLASH**
 
 STREAM
 https://raw.githubusercontent.com/arez83/rule/main/stream.yaml
@@ -14,7 +12,7 @@ https://raw.githubusercontent.com/arez83/rule/main/AdBlock.yaml
 AdBlock++
 https://raw.githubusercontent.com/arez83/rule/main/AdBlock%2B%2B.yaml
 
-#SURFBOARD
+**RULE-SET SURFBOARD**
 
 AdBlock
 https://raw.githubusercontent.com/arez83/rule/main/AdBlock.conf
