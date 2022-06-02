@@ -1,9 +1,9 @@
 **RULE-SET CLASH**
 
-STREAM
+Stream
 https://raw.githubusercontent.com/arez83/rule/main/clash/stream.yaml
 
-GAMES
+Games
 https://raw.githubusercontent.com/arez83/rule/main/clash/games.yaml
 
 AdBlock
@@ -20,3 +20,4 @@ https://raw.githubusercontent.com/arez83/rule/main/surfboard/AdBlock.conf
 AdBlock+
 https://raw.githubusercontent.com/arez83/rule/main/surfboard/AdBlockPlus.conf
 
+Stream
