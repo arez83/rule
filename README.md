@@ -15,6 +15,6 @@ https://raw.githubusercontent.com/arez83/rule/main/AdBlockPlus.yaml
 **RULE-SET SURFBOARD**
 
 AdBlock
-https://raw.githubusercontent.com/arez83/rule/main/AdBlock.conf
+https://raw.githubusercontent.com/arez83/rule/main/surfboard/AdBlock.conf
 
 AdBlock+
