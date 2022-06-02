@@ -18,3 +18,5 @@ AdBlock
 https://raw.githubusercontent.com/arez83/rule/main/surfboard/AdBlock.conf
 
 AdBlock+
+https://raw.githubusercontent.com/arez83/rule/main/surfboard/AdBlockPlus.conf
+
