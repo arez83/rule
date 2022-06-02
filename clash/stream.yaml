@@ -2,27 +2,13 @@
 # BEHAVIOR: Classical
 payload:
   # Mulai baris ini kebawah bisa di edit/hapus
-# Music
-  - DOMAIN-SUFFIX,joox.com
-  - DOMAIN-KEYWORD,joox
-  - DOMAIN-KEYWORD,soundcloud
-  - DOMAIN-KEYWORD,resso
-# > Vidio
-  - DOMAIN-SUFFIX,vidio.com
-  - DOMAIN-SUFFIX,m.vidio.com
-  - DOMAIN-KEYWORD,vidio
 # > Tiktok
   - DOMAIN-SUFFIX,tiktok.com
   - DOMAIN-KEYWORD,tiktok
 # > Netflix
   - DOMAIN-SUFFIX,netflix.com
   - DOMAIN-KEYWORD,netflix
-# > Tencent Video
-  - DOMAIN-SUFFIX,v.smtcdns.com
-  - DOMAIN-SUFFIX,vv.video.qq.com
 # > Anime
-  - DOMAIN-SUFFIX,viz.com
-  - DOMAIN-SUFFIX,aniplus-asia.com
   - DOMAIN-SUFFIX,viz.com
   - DOMAIN-SUFFIX,aniplus-asia.com
   - DOMAIN-SUFFIX,bilibili.tv
