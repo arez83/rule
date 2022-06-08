@@ -14,11 +14,11 @@ https://raw.githubusercontent.com/arez83/rule/main/clash/AdBlockPlus.yaml
 
 **RULE-SET SURFBOARD**
 
-Ads
+AdBlock 1
 https://raw.githubusercontent.com/arez83/rule/main/surfboard/Ads.conf
 
-AdBlock
-https://raw.githubusercontent.com/arez83/rule/main/surfboard/AdBlock.conf
+AdBlock 2
+https://raw.githubusercontent.com/arez83/rule/main/surfboard/Ads2.conf
 
 Stream
 https://raw.githubusercontent.com/arez83/rule/main/surfboard/Stream.conf
