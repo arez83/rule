@@ -13,9 +13,9 @@ https://raw.githubusercontent.com/arez83/rule/main/clash/AdBlock.yaml
 **RULE-SET SURFBOARD**
 
 AdBlock
-https://raw.githubusercontent.com/arez83/rule/main/surfboard/Adblock.conf
+https://raw.githubusercontent.com/arez83/rule/main/surfboard/AdBlock.conf
 
-https://raw.githubusercontent.com/arez83/rule/main/surfboard/Adblock2.conf
+https://raw.githubusercontent.com/arez83/rule/main/surfboard/AdBlock2.conf
 
 Stream
 https://raw.githubusercontent.com/arez83/rule/main/surfboard/Stream.conf
