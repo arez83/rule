@@ -1,5 +1,23 @@
 **RULE-SET CLASH**
 -
+1. **AdBlock**
+
+- https://raw.githubusercontent.com/arez83/rule/main/clash/AdBlock.yaml
+- https://raw.githubusercontent.com/arez83/rule/main/clash/AdBlock2.yaml
+
+2. **Games**
+
+- https://raw.githubusercontent.com/arez83/rule/main/clash/Games.yaml
+
+3. **STREAMING**
+
+- https://raw.githubusercontent.com/arez83/rule/main/clash/AmazonPrimeVideo.yaml
+- https://raw.githubusercontent.com/arez83/rule/main/clash/BiliBili.yaml
+- https://raw.githubusercontent.com/arez83/rule/main/clash/Netflix.yaml
+- https://raw.githubusercontent.com/arez83/rule/main/clash/iQIYI.yaml
+- https://raw.githubusercontent.com/arez83/rule/main/clash/YouTube.yaml
+- https://raw.githubusercontent.com/arez83/rule/main/clash/TikTok.yaml
+- https://raw.githubusercontent.com/arez83/rule/main/clash/Vidio.yaml
 
 **RULE-SET SURFBOARD**
 -
