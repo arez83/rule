@@ -1,15 +1,15 @@
 **RULE-SET CLASH**
 -
-1. **AdBlock**
+**1. AdBlock**
 
 - https://raw.githubusercontent.com/arez83/rule/main/clash/AdBlock.yaml
 - https://raw.githubusercontent.com/arez83/rule/main/clash/AdBlock2.yaml
 
-2. **Games**
+**2. Games**
 
 - https://raw.githubusercontent.com/arez83/rule/main/clash/Games.yaml
 
-3. **Streaming**
+**3. Streaming**
 
 - https://raw.githubusercontent.com/arez83/rule/main/clash/AmazonPrimeVideo.yaml
 - https://raw.githubusercontent.com/arez83/rule/main/clash/BiliBili.yaml
@@ -21,12 +21,12 @@
 
 **RULE-SET SURFBOARD**
 -
-1. **AdBlock**
+**1. AdBlock**
 
 - https://raw.githubusercontent.com/arez83/rule/main/surfboard/AdBlock.conf
 - https://raw.githubusercontent.com/arez83/rule/main/surfboard/AdBlock2.conf
 
-2. **Streaming**
+**2. Streaming**
 
 - https://raw.githubusercontent.com/arez83/rule/main/surfboard/AmazonPrimeVideo.conf
 - https://raw.githubusercontent.com/arez83/rule/main/surfboard/BiliBili.conf
