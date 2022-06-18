@@ -25,6 +25,7 @@
 
 - https://raw.githubusercontent.com/arez83/rule/main/surfboard/AdBlock.conf
 - https://raw.githubusercontent.com/arez83/rule/main/surfboard/AdBlock2.conf
+- https://raw.githubusercontent.com/arez83/rule/main/surfboard/Adservers.conf
 
 **2. Streaming**
 
