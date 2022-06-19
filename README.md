@@ -2,8 +2,8 @@
 -
 **1. AdBlock**
 
-- https://raw.githubusercontent.com/arez83/rule/main/clash/AdBlock.yaml
-- https://raw.githubusercontent.com/arez83/rule/main/clash/AdBlock2.yaml
+- https://raw.githubusercontent.com/arez83/rule/main/clash/Adservers.yaml
+- https://raw.githubusercontent.com/arez83/rule/main/clash/Adservers2.yaml
 
 **2. Games**
 
