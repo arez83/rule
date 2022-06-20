@@ -3,7 +3,6 @@
 **1. AdBlock**
 
 - https://raw.githubusercontent.com/arez83/rule/main/clash/Adservers.yaml
-- https://raw.githubusercontent.com/arez83/rule/main/clash/Adservers2.yaml
 
 **2. Games**
 
@@ -23,9 +22,7 @@
 -
 **1. AdBlock**
 
-- https://raw.githubusercontent.com/arez83/rule/main/surfboard/Adservers.txt
 - https://raw.githubusercontent.com/arez83/rule/main/surfboard/Adservers.conf
-- https://raw.githubusercontent.com/arez83/rule/main/surfboard/Adservers2.conf
 
 **2. Streaming**
 
