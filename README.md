@@ -4,11 +4,7 @@
 
 - https://raw.githubusercontent.com/arez83/rule/main/clash/Adservers.yaml
 
-**2. Games**
-
-- https://raw.githubusercontent.com/arez83/rule/main/clash/Games.yaml
-
-**3. Streaming**
+**2. Streaming**
 
 - https://raw.githubusercontent.com/arez83/rule/main/clash/AmazonPrimeVideo.yaml
 - https://raw.githubusercontent.com/arez83/rule/main/clash/BiliBili.yaml
