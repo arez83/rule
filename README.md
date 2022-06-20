@@ -23,6 +23,7 @@
 -
 **1. AdBlock**
 
+- https://raw.githubusercontent.com/arez83/rule/main/surfboard/Adservers.txt
 - https://raw.githubusercontent.com/arez83/rule/main/surfboard/Adservers.conf
 - https://raw.githubusercontent.com/arez83/rule/main/surfboard/Adservers2.conf
 
