@@ -14,6 +14,10 @@
 - https://raw.githubusercontent.com/arez83/rule/main/clash/TikTok.yaml
 - https://raw.githubusercontent.com/arez83/rule/main/clash/Vidio.yaml
 
+**3. Games**
+
+- https://raw.githubusercontent.com/arez83/rule/main/clash/Games.yaml
+
 **RULE-SET SURFBOARD**
 -
 **1. AdBlock**
