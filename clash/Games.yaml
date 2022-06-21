@@ -36,9 +36,7 @@ payload:
   - DOMAIN-SUFFIX,clashroyaleapp.com
 #Riot Games - Wild Rift
   - DOMAIN-SUFFIX,pvp.net
-  - DOMAIN-SUFFIX,leagueoflegends.com
-  - DOMAIN-SUFFIX,lolstatic.com
-  - DOMAIN-SUFFIX,rgpub.io
   - DOMAIN-SUFFIX,riotcdn.com
   - DOMAIN-SUFFIX,riotcdn.net
   - DOMAIN-SUFFIX,riotgames.com
+  - DOMAIN,wildrift-na.akamaized.net
