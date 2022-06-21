@@ -35,6 +35,7 @@ payload:
   - DOMAIN-SUFFIX,clashroyale.com
   - DOMAIN-SUFFIX,clashroyaleapp.com
 #Riot Games - Wild Rift
+  - PROCESS-NAME,com.riotgames.league.wildrift
   - DOMAIN-SUFFIX,pvp.net
   - DOMAIN-SUFFIX,riotcdn.com
   - DOMAIN-SUFFIX,riotcdn.net
